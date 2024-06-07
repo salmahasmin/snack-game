@@ -1,4 +1,4 @@
-#Snake Game Python
+# Snake Game Python
 
 import math
 import random
